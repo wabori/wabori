@@ -21,7 +21,7 @@
 ```ruby
 const myshitstuffs = {
   pronouns: "He" | "him",
-  backend: ["NodeJS"],
+  backend: ["NodeJS", "TypeScript", "Lua", "C++"],
   frontend: ["ReactJS", "TailwindCSS", "GSAP"],
   database: ["MySQL", "MongoDB", "Firebase"],
   "cloud-server": ["AWS"],
