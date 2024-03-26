@@ -6,9 +6,6 @@
   <a href="https://github.com/wabori?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/wabori?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
 </p>
 
 
