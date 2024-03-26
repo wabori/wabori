@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Álex</h1>
+<p align="left">
+  <a href="https://github.com/wabori">
+    <img src="https://komarev.com/ghpvc/?username=wabori" alt="page views">
+  </a>
+  <a href="https://github.com/wabori?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/wabori?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-<!--
-**wabori/wabori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- :house: I'm currently living at Salvador, Bahia.
+- :computer: I'm currently working as a Software Engineer.
+- :dart: I'm currently working on my pet projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```ruby
+const myshitstuffs = {
+  pronouns: "He" | "him",
+  backend: ["NodeJS"],
+  frontend: ["ReactJS", "TailwindCSS", "GSAP"],
+  database: ["MySQL", "MongoDB", "Firebase"],
+  "cloud-server": ["AWS"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+```
+
+
+---
